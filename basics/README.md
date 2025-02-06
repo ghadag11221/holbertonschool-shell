@@ -1,3 +1,3 @@
-# Holberton School Shell
+# Holberton School Shell# Basics Scripts
 
-This repository contains basic shell scripts for learning shell commands.
+- `0-current_working_directory`: Prints the absolute path of the current working directory.
