@@ -1,2 +1,2 @@
 #!/bin/bash
-ls *.html 1> /dev/null 2>&1 && cp -u *.html ../ || echo "no file."
+cp -u *.html ../ 2>/dev/null
