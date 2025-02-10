@@ -1,2 +1,2 @@
 #!/bin/bash
-import os; os.chmod('hello', 0o755)
+chmod 753 hello
