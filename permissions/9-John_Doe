@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwx,g=rx,o=wx hello
+import os; os.chmod('hello', 0o755)
